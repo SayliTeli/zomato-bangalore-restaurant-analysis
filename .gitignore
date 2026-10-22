@@ -1,0 +1,6 @@
+zomato.csv
+zomato_clean.csv
+zomato_cuisine_clean.csv
+zomato.db
+__pycache__/
+venv/
