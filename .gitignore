@@ -4,3 +4,4 @@ zomato_cuisine_clean.csv
 zomato.db
 __pycache__/
 venv/
+/zomato.pbix
